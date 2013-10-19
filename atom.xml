@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://yoursite.com/atom.xml" rel="self"/>
-  <link href="http://yoursite.com/"/>
-  <updated>2013-10-20T00:31:23+10:30</updated>
-  <id>http://yoursite.com/</id>
+  <link href="http://morning9.github.io/atom.xml" rel="self"/>
+  <link href="http://morning9.github.io/"/>
+  <updated>2013-10-20T00:36:27+10:30</updated>
+  <id>http://morning9.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
     
