@@ -1,23 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://morning9.github.io/aboutme/</loc>
+        <loc>http://www.9inc.tk/aboutme/</loc>
         <lastmod>2013-10-20T02:50:30+10:30</lastmod>
     </url>
     <url>
-        <loc>http://morning9.github.io/blog/archives/</loc>
+        <loc>http://www.9inc.tk/blog/archives/</loc>
         <lastmod>2013-10-20T00:30:32+10:30</lastmod>
     </url>
     <url>
-        <loc>http://morning9.github.io/blog/</loc>
+        <loc>http://www.9inc.tk/blog/</loc>
         <lastmod>2013-10-20T00:30:32+10:30</lastmod>
     </url>
     <url>
-        <loc>http://morning9.github.io/</loc>
+        <loc>http://www.9inc.tk/</loc>
         <lastmod>2013-10-20T02:16:19+10:30</lastmod>
     </url>
     <url>
-        <loc>http://morning9.github.io/robots.txt</loc>
+        <loc>http://www.9inc.tk/robots.txt</loc>
         <lastmod>2013-10-20T00:30:32+10:30</lastmod>
     </url>
 </urlset>
