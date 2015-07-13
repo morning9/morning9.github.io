@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Jottings | 9's Dream World]]></title>
+  <link href="http://www.9inc.tk/blog/categories/jottings/atom.xml" rel="self"/>
+  <link href="http://www.9inc.tk/"/>
+  <updated>2015-07-14T00:03:56+08:00</updated>
+  <id>http://www.9inc.tk/</id>
+  <author>
+    <name><![CDATA[9]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[I need a time machine]]></title>
+    <link href="http://www.9inc.tk/blog/2013/10/21/i-need-a-time-machine/"/>
+    <updated>2013-10-21T00:53:00+08:00</updated>
+    <id>http://www.9inc.tk/blog/2013/10/21/i-need-a-time-machine</id>
+    <content type="html"><![CDATA[<p>I need a time machine which can bring me back to the age of 20. In recent years, especially the days when I studied aboard, I felt so deep inside that growing up means stress, responsibility, tears and maybe more. I can&rsquo;t really catalogue all these things. It is getting harder to find the happiness of my life.</p>
+]]></content>
+  </entry>
+  
+</feed>
